@@ -54,7 +54,8 @@ SQL
 - INNER JOIN table2
 - ON table1.CategoryID= table2.CategoryID
 - WHERE table2.Price BETWEEN 10 AND 20;
-- 
+
+- SELECT *
 - FROM Products
 - INNER JOIN Categories
 - ON Products.CategoryID= Categories.CategoryID
