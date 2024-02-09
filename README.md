@@ -1,6 +1,13 @@
+> Silenciar pc, v in
+
+
 > https://drive.google.com/drive/u/0/folders/1_2FSaV95zTEjkW3LuzYfcdfI-HkhFrIG
 > https://chat.openai.com/c/ea613bb4-9bea-4b77-a169-b737c187789b
 > https://drive.google.com/drive/u/0/folders/1t_VEi0e-o5tpQO_AF9X0HkMybA1ntLy6
+> https://support.microsoft.com/es-es/office/buscarv-942f678a-1bfc-4ccf-8dfa-f5057ded5c65
+> https://support.microsoft.com/es-es/office/usar-una-f%C3%B3rmula-para-aplicar-formato-condicional-en-excel-para-mac-34093090-235b-4476-a7ce-1da7880c750f
+> https://github.com/jeremontoya155/SQL_EXCEL_POWERBI/blob/main/NotasServer.txt
+> https://gemini.google.com/app
 
 EXCEL
 
