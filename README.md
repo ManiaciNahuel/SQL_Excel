@@ -1,3 +1,7 @@
+> https://drive.google.com/drive/u/0/folders/1_2FSaV95zTEjkW3LuzYfcdfI-HkhFrIG
+> https://chat.openai.com/c/ea613bb4-9bea-4b77-a169-b737c187789b
+> https://drive.google.com/drive/u/0/folders/1t_VEi0e-o5tpQO_AF9X0HkMybA1ntLy6
+
 EXCEL
 
 - SUMA
@@ -19,6 +23,11 @@ EXCEL
 
 
 SQL 
+> https://www.w3schools.com/sql/sql_groupby.asp
+> https://www.w3schools.com/sql/sql_join.asp
+> https://intellipaat.com/blog/tutorial/sql-tutorial/sql-commands-cheat-sheet/
+> https://devhints.io/mysql
+
 - SELECT * FROM Customers;
 - SELECT CustomerID FROM Customers ;
 - SELECT CustomerID as CustomerID, City, Counttry FROM Customers;
@@ -53,3 +62,21 @@ SQL
 - AND Products.Price < 20
 - ORDER BY Products.ProductName ASC;
 - 
+- SELECT column_name(s)
+- FROM table_name
+- WHERE condition
+- GROUP BY column_name(s)
+- ORDER BY column_name(s);
+
+List the number of customers in each country.
+- 
+- SELECT COUNT(CustomerID), Country
+- FROM Customers
+- GROUP BY Country;
+
+List the number of customers in each country, ordered by the country with the most customers first.
+
+- SELECT COUNT(CustomerID), Country
+- FROM Customers
+- GROUP BY Country
+- ORDER BY COUNT(CustomerID) DESC;
